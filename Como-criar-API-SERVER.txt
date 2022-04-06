@@ -4,4 +4,3 @@ sem passar por um processo interativo.
 npm i json-server
 https://www.fabricadecodigo.com/json-server/
 https://www.npmjs.com/package/json-server
-teste de integracao
