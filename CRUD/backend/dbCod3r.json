@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": "10.89"
+    },
+    {
+      "id": 2,
+      "name": "Notebook Lenovo",
+      "price": "13330.75"
+    },
+    {
+      "id": 3,
+      "name": "Samsung Galaxy S10",
+      "price": "5000.87"
+    },
+    {
+      "name": "Notebook Samsung",
+      "price": "7458,44",
+      "id": 4
+    },
+    {
+      "name": "Camera de Video",
+      "price": "4447,77",
+      "id": 5
+    }
+  ]
+}

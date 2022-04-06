@@ -1,0 +1,7 @@
+npm init -y
+Simplesmente irá gerar um projeto npm vazio 
+sem passar por um processo interativo.
+npm i json-server
+https://www.fabricadecodigo.com/json-server/
+https://www.npmjs.com/package/json-server
+teste de integracao
