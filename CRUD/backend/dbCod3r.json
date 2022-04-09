@@ -24,6 +24,16 @@
       "name": "Camera de Video",
       "price": "4447,77",
       "id": 5
+    },
+    {
+      "name": "Produto Teste Gravado Sexta-feira",
+      "price": 125.77,
+      "id": 6
+    },
+    {
+      "name": "Produto Teste Gravado Sexta-feira",
+      "price": 125.77,
+      "id": 7
     }
   ]
 }
