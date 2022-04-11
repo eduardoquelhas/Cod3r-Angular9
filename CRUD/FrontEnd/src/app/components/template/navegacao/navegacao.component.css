@@ -1,6 +1,6 @@
 .sidenav{
     background-color: #3f51b5;
-    width: 200px;
+    width: 150px;
 }
 .sidenav a{
     color: #fff;
@@ -13,7 +13,10 @@
 .sidenav i{
     padding-right: 10px;
 }
+/* Aqui fica a cor de Fundo da Navegação */
 .content{
     padding: 16px;
-    background-color: darksalmon;
+    /* background-color: darksalmon; */
+    background-color: mediumseagreen
+
 }

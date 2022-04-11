@@ -34,6 +34,46 @@
       "name": "Produto Teste Gravado Sexta-feira",
       "price": 125.77,
       "id": 7
+    },
+    {
+      "name": "",
+      "price": 0,
+      "id": 8
+    },
+    {
+      "name": "",
+      "price": 0,
+      "id": 9
+    },
+    {
+      "name": "",
+      "price": 0,
+      "id": 10
+    },
+    {
+      "name": "",
+      "price": 0,
+      "id": 11
+    },
+    {
+      "name": "",
+      "price": 0,
+      "id": 12
+    },
+    {
+      "name": "",
+      "price": 0,
+      "id": 13
+    },
+    {
+      "name": "veio do forumalario",
+      "price": "77,77",
+      "id": 14
+    },
+    {
+      "name": "mais uma inclusão vinda do formulario",
+      "price": "1234.77",
+      "id": 15
     }
   ]
 }
