@@ -1,0 +1,20 @@
+<mat-card>
+    <mat-card-title>Cofirmar a exclusão do Registro de Produto</mat-card-title>
+        <form>
+            <mat-form-field>
+                <input matInput placeholder="Nome do produto"
+                [value]="_product.name" name="name" disabled >
+            </mat-form-field>
+            <mat-form-field>
+                <input matInput placeholder="Preço do produto"
+                [value]="_product.price" name="price" disabled>
+            </mat-form-field>
+        </form>
+        <button mat-raised-button (click)="deleteProductID()" color="warn">
+            Excluir Registro
+        </button>
+        
+        <button mat-raised-button (click)="cancel()">
+            Cancelar
+        </button>    
+</mat-card>

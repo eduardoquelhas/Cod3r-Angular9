@@ -11,6 +11,7 @@ import { IProduct } from '../product.model';
 export class ProductCreateComponent implements OnInit {
 
   _product: IProduct = {
+    id:0,
     name: '',
     price: 0
   }

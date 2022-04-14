@@ -2,78 +2,38 @@
   "products": [
     {
       "id": 1,
-      "name": "Caneta BIC Preta",
-      "price": "10.89"
+      "name": "Caneta Bic Azul alterado",
+      "price": "102220.89"
     },
     {
       "id": 2,
-      "name": "Notebook Lenovo",
-      "price": "13330.75"
+      "name": "Lapiz Preto",
+      "price": "1.54"
     },
     {
-      "id": 3,
-      "name": "Samsung Galaxy S10",
-      "price": "5000.87"
+      "id": 4,
+      "name": "Notebook Vaio",
+      "price": "3867.87"
     },
     {
-      "name": "Notebook Samsung",
-      "price": "7458,44",
-      "id": 4
+      "id": 5,
+      "name": "eee",
+      "price": "33"
     },
     {
-      "name": "Camera de Video",
-      "price": "4447,77",
-      "id": 5
+      "id": 6,
+      "name": "Mais um produto",
+      "price": "022.89"
     },
     {
-      "name": "Produto Teste Gravado Sexta-feira",
-      "price": 125.77,
-      "id": 6
+      "id": 7,
+      "name": "Identificador unico",
+      "price": "333"
     },
     {
-      "name": "Produto Teste Gravado Sexta-feira",
-      "price": 125.77,
-      "id": 7
-    },
-    {
-      "name": "",
-      "price": 0,
-      "id": 8
-    },
-    {
-      "name": "",
-      "price": 0,
-      "id": 9
-    },
-    {
-      "name": "",
-      "price": 0,
-      "id": 10
-    },
-    {
-      "name": "",
-      "price": 0,
-      "id": 11
-    },
-    {
-      "name": "",
-      "price": 0,
-      "id": 12
-    },
-    {
-      "name": "",
-      "price": 0,
-      "id": 13
-    },
-    {
-      "name": "veio do forumalario",
-      "price": "77,77",
-      "id": 14
-    },
-    {
-      "name": "mais uma inclusão vinda do formulario",
-      "price": "1234.77",
-      "id": 15
+      "id": 8,
+      "name": "Cadastrado quinta-feira",
+      "price": "07777"
     }
   ]
 }
